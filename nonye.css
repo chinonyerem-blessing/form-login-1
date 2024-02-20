@@ -1,0 +1,99 @@
+body{
+   background-color: antiquewhite;
+}
+.con{
+    width: 1430px;
+    height: 350px;
+    background-color: navajowhite;
+    border-radius: 1px 1px 600px 1px;
+}
+.ind{
+    width: 300px;
+    height: 20px;
+    border: 1px solid rgb(145, 107, 37);
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.in{
+    width: 300px;
+    height: 20px;
+    border: 1px solid rgb(145, 107, 37);
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(145, 107, 37);
+}
+.bu{
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+}
+.lo{
+    text-align: center;
+    font-size: 100px;
+}
+.en{
+    text-align: center;
+    font-weight: bold;
+}
+.ii{
+    width: 500px;
+    height: 50px;
+    background-color: rgb(194, 187, 187);
+    border-radius: 20px;
+    font-size: 20px;
+    color: rgb(61, 61, 61);
+    border: none;
+    text-align: center;
+    margin-top: 50px;
+}
+.n{
+   text-align: center;
+}
+.my{
+    justify-content: center;
+    text-decoration: none;
+    color: rgb(77, 73, 73);
+    font-size: 20px;
+    margin-left: 370px;
+    
+}
+.nn{
+    height: 50px;
+    width: 500px;
+    background-color: blueviolet;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 450px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.ab{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.ac{
+    margin-top: 18px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+.gg{
+    width: 450px;
+}
+.ww{
+    width: 450px;
+    height: 50px;
+    text-decoration: none;
+    border: 2px solid blueviolet;
+    text-align: center;
+    margin-left: 470px;
+    margin-top: 50px;
+    padding-top: 15px;
+    color: blueviolet;
+    font-weight: bold;
+}
